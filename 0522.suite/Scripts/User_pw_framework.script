@@ -1,0 +1,14 @@
+﻿Click "UserNameField"
+
+TypeText UserName
+
+Click "PasswordField"
+
+Set the scriptlogging to Silent
+
+TypeText Password
+
+Set the scriptlogging to On
+
+Log "The password was typed!"
+

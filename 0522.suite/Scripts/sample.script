@@ -1,0 +1,37 @@
+﻿set myprices to file ResourcePath("prices.txt")
+put file"C:\Users\Carrie\Desktop\products.csv"
+
+set myprices to line 3 of file ResourcePath("prices.txt")
+
+set Credentials to file resourcepath("LoginCredentials.txt")
+
+set HeaderRow to line 1 of Credentials
+
+set AdminPassword to the second item of line 2 of Credentians
+
+repeat with each line of 2 to -1 of Credentials
+	log it
+end repeat
+
+set Credtials to file ResourcePath("LoginCredentials.txt")
+
+repeat with each line myline of Credentials
+	log myline
+end repeat
+
+set Credentials to file resourcepath("LoginCredentials.txt")
+repeat with each line CredentialSet of line 2 to- 1 of Credentials
+	set Username to the first item of CredentialSet
+	set Password to the second item of CredentialSet
+	Click "UsernameField"
+	TypeText Username
+	click"PasswordField"
+	TypeText Password
+end repeat
+
+set c to WorkBook(ResourcePath("LoginCredentials.xlsx"))
+set my to Credentials.Worksheet("LoginSet")
+set CredentialsList to cellRange("A:B") of myCredentials
+log Credentialalist
+
+
