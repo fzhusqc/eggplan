@@ -1,0 +1,15 @@
+﻿
+//Battery volume
+Repeat forever
+wait 1hour
+TypeText LockButton 
+TypeText PowerButton
+Click "set_b_1"//seting
+Click "deti"//電池量 
+wait 3
+Click "deti_return"//戻る
+If 24hours then//24時間待つ
+	Exit repeat//ループ終わり
+End if
+End repeat
+

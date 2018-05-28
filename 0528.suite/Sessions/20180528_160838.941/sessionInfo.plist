@@ -1,0 +1,53 @@
+{
+    commandList = "[{captureRect:[621, 1246, 829, 1466], command:@\"Click\", eventNum:2, hotSpot:[714, 1202], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Seting_28\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0002.png\"}, {command:@\"TypeText\", eventNum:4, screenShotFile:@\"Screen0004.png\", text:@\"DownArrow,DownArrow,DownArrow,DownArrow,DownArrow,DownArrow,DownArrow,DownArrow\"}, {captureRect:[1180, 1965, 1250, 1995], command:@\"MoveTo\", eventNum:13, hotSpot:[1215, 580], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0013.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:14, screenShotFile:@\"Screen0013.png\", text:@\"4.0\"}, {captureRect:[1177, 1831, 1247, 1861], command:@\"MoveTo\", eventNum:15, hotSpot:[1212, 714], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0015.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:16, screenShotFile:@\"Screen0015.png\", text:@\"2.0\"}, {captureRect:[1269, 1054, 1339, 1084], command:@\"MoveTo\", eventNum:17, hotSpot:[1304, 1491], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0017.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:18, screenShotFile:@\"Screen0017.png\", skipStep:@\"YES\", text:@\"6.0\"}, {captureRect:[1259, 1054, 1329, 1084], command:@\"MoveTo\", eventNum:19, hotSpot:[1294, 1491], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0004\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0019.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:20, screenShotFile:@\"Screen0019.png\", text:@\"27.0\"}, {captureRect:[1259, 1054, 1329, 1084], command:@\"MoveTo\", eventNum:21, hotSpot:[1294, 1491], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0005\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0021.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:22, screenShotFile:@\"Screen0021.png\", skipStep:@\"YES\", text:@\"4.0\"}, {captureRect:[1285, 860, 1355, 890], command:@\"MoveTo\", eventNum:23, hotSpot:[1320, 1685], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0006\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0023.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:24, screenShotFile:@\"Screen0023.png\", text:@\"5.0\"}, {captureRect:[1228, 814, 1298, 844], command:@\"MoveTo\", eventNum:25, hotSpot:[1263, 1731], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0007\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0025.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:26, screenShotFile:@\"Screen0025.png\", text:@\"5.0\"}, {captureRect:[1228, 814, 1298, 844], command:@\"MoveTo\", eventNum:27, hotSpot:[1263, 1731], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0008\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0027.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:28, screenShotFile:@\"Screen0027.png\", text:@\"4.0\"}, {captureRect:[1228, 814, 1298, 844], command:@\"MoveTo\", eventNum:29, hotSpot:[1263, 1731], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0009\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0029.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:30, screenShotFile:@\"Screen0029.png\", text:@\"5.0\"}, {captureRect:[356, 267, 426, 297], command:@\"Click\", eventNum:31, hotSpot:[391, 2278], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"tanmatu_28\", searchType:@\"Tolerant\", waitFor:@\"10.8\"}, screenShotFile:@\"Screen0031.png\", waitFor:@\"10.8\"}, {captureRect:[606, 500, 676, 530], command:@\"MoveTo\", eventNum:33, hotSpot:[641, 2045], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0010\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0033.png\", skipStep:@\"YES\"}, {command:@\"ScrollWheelDown\", eventNum:34, screenShotFile:@\"Screen0033.png\", skipStep:@\"YES\", text:@\"2.0\"}, {captureRect:[281, 51, 364, 125], command:@\"Click\", eventNum:35, hotSpot:[334, 2472], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"rt-1\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0035.png\"}, {captureRect:[295, 58, 337, 108], command:@\"Click\", eventNum:37, hotSpot:[334, 2472], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0011\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0037.png\", skipStep:@\"YES\"}]";
+    generatedCommands = (
+	"Click \"Seting_28\"",
+	"TypeText DownArrow,DownArrow,DownArrow,DownArrow,DownArrow,DownArrow,DownArrow,DownArrow",
+	"-skipped- MoveTo \"image0001\"",
+	"ScrollWheelDown 4.0",
+	"-skipped- MoveTo \"image0002\"",
+	"ScrollWheelDown 2.0",
+	"-skipped- MoveTo \"image0003\"",
+	"-skipped- ScrollWheelDown 6.0",
+	"-skipped- MoveTo \"image0004\"",
+	"ScrollWheelDown 27.0",
+	"-skipped- MoveTo \"image0005\"",
+	"-skipped- ScrollWheelDown 4.0",
+	"-skipped- MoveTo \"image0006\"",
+	"ScrollWheelDown 5.0",
+	"-skipped- MoveTo \"image0007\"",
+	"ScrollWheelDown 5.0",
+	"-skipped- MoveTo \"image0008\"",
+	"ScrollWheelDown 4.0",
+	"-skipped- MoveTo \"image0009\"",
+	"ScrollWheelDown 5.0",
+	"Click (Image:\"tanmatu_28\", WaitFor:10.8)",
+	"-skipped- MoveTo \"image0010\"",
+	"-skipped- ScrollWheelDown 2.0",
+	"Click \"rt-1\"",
+	"-skipped- Click \"image0011\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "Seting_28.png",
+	    "image0001.png",
+	    "image0002.png",
+	    "image0003.png",
+	    "image0004.png",
+	    "image0005.png",
+	    "image0006.png",
+	    "image0007.png",
+	    "image0008.png",
+	    "image0009.png",
+	    "tanmatu_28.png",
+	    "image0010.png",
+	    "rt-1.png",
+	    "image0011.png",
+	    "Seting_28.png",
+	    "tanmatu_28.png",
+	    "rt-1.png"
+	);
+    };
+    sessionType = turboSession;
+    unnamedImageCount = <*I0>;
+}

@@ -1,0 +1,22 @@
+{
+    commandList = "[{captureRect:[325, 1895, 564, 2109], command:@\"Click\", eventNum:2, hotSpot:[436, 559], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"set_b_1\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0002.png\"}, {captureRect:[80, 747, 367, 864], command:@\"Click\", eventNum:4, hotSpot:[195, 1763], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"deti\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0004.png\"}, {captureRect:[269, 47, 383, 122], command:@\"Click\", eventNum:6, hotSpot:[325, 2475], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"deti_return\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0006.png\"}, {captureRect:[318, 80, 388, 110], command:@\"Click\", eventNum:8, hotSpot:[353, 2465], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0008.png\", skipStep:@\"YES\"}]";
+    generatedCommands = (
+	"Click \"set_b_1\"",
+	"Click \"deti\"",
+	"Click \"deti_return\"",
+	"-skipped- Click \"image0001\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "set_b_1.png",
+	    "deti.png",
+	    "deti_return.png",
+	    "image0001.png",
+	    "set_b_1.png",
+	    "deti.png",
+	    "deti_return.png"
+	);
+    };
+    sessionType = turboSession;
+    unnamedImageCount = <*I0>;
+}

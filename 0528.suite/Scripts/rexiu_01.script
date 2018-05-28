@@ -1,0 +1,8 @@
+﻿set myRange to 1..100
+
+repeat with each item of myRange
+	(*put it
+	add 1 to myRange.currentIndex*)
+	put myRange.currentIndex
+end repeat
+

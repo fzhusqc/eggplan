@@ -1,0 +1,25 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2018-05-28 16:14:14
+  From session:  AD_01
+  Captured on:  2018-05-28 16:08:38
+  From server:  Nexus6ZX1G427XTZ
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "Seting_28"
+Repeat 8 times	
+	If ImageFound(1,"Android_jh") then//端末情報
+		Exit repeat            //ループをジャンプ
+		Log "成功しました"
+	Else
+		Log "場所を探す"
+		SwipeUp //下に移動
+	End if	
+End repeat
+wait 3
+Click "Android_jh"
+put ReadText(53,1648,529,1716,Language:japanese)//Androidバージョンは7.1.1
+Log "Androidバージョンは7.1.1"
+wait 3
+Click "rt-1"//戻す
+Click "rt-1"
+
